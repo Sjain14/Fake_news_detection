@@ -18,3 +18,8 @@ https://kandi.openweaver.com/collections/starterkits/fake_news_detection_dashboa
 ### Youtube Video:
 
 https://youtu.be/IaVbf_ClGNQ
+
+
+![Main](images/main.jpg)
+![Interface](images/interface.jpg)
+![Result](images/result.jpg)
