@@ -2,10 +2,12 @@
 
 
 
-Brief Description:
+# Brief Description:
+
 A AI fake news detection project using machine learning!  AI fake news detector helps detect fake news through binary classification techniques and helps users to check any article using a web interface.
 
-What problem does it solve? 
+# What problem does it solve? 
+
 Majority of news consumers see “fake news” as a big problem today. What can we as tech enthusiasts do to allay concerns about “fake news”?  AI fake news detector helps detect fake news through binary classification techniques and helps build better experiences by controlling the flow of disinformation in politics, businesses, climate change, and more.
 
 
