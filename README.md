@@ -19,13 +19,13 @@ https://kandi.openweaver.com/collections/starterkits/fake_news_detection_dashboa
 
 https://youtu.be/IaVbf_ClGNQ
 
-##Screenshots
+## Screenshots
 
-###Index
+### Index
 ![Main](images/main.png)
 
-###Interface
+### Interface
 ![Interface](images/interface.png)
 
-###Result
+### Result
 ![Result](images/result.png)
