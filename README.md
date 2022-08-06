@@ -1,8 +1,8 @@
-# Fake_news_detection
+## Fake_news_detection
 
 
 
-# Brief Description:
+# Description:
 
 A AI fake news detection project using machine learning!  AI fake news detector helps detect fake news through binary classification techniques and helps users to check any article using a web interface.
 
@@ -12,7 +12,9 @@ Majority of news consumers see “fake news” as a big problem today. What can 
 
 
 Kandi starter kit:
+
 https://kandi.openweaver.com/collections/starterkits/fake_news_detection_dashboard
 
 Youtube Video:
+
 https://youtu.be/IaVbf_ClGNQ
